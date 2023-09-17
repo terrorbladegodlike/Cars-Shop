@@ -21,7 +21,7 @@ export default function Home() {
       <CTA />
       <Footer />
       <BackToTopBtn />
-      <div className="h-[4000px]"></div>
+      {/* <div className="h-[4000px]"></div> */}
     </main>
   )
 }
